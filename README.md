@@ -2,5 +2,25 @@
 
 
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
-- ⚡ Soft skills: Sou uma pessoa que gosto de trabalhar em grupo, estou sempre disposta a ajudar, estou sempre buscando ser empática com as pessoas, tenho espirito de liderança.
--->
+- ⚡ Soft skills: Gosto de trabalhar em equipe, estou sempre disposta a ajudar, sou comunicativa, criativa e tenho espirito de liderança.
+
+<div align="center">
+  <a href="https://github.com/joannamartinstec">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joannamar&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joannamar&layout=compact&langs_count=7&theme=moltack"/>
+  
+  
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+<div>
+<a href="https://www.instagram.com/joannamarrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joannamartinstec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joanna-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
