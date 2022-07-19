@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/joannamartinstec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joannamar&show_icons=false&theme=moltack&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joannamar&layout=compact&langs_count=7&theme=moltack"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanna&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   
 </div>
